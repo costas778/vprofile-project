@@ -23,6 +23,8 @@ NOTE: Bringing VMs can take long time sometimes. If VM setup stops in the middle
 
 We can check our VMs from Oracle VM VirtualBox Manager.
 
+![App Screenshot](vp2.png)
+
 Next, I validated my VMs one by one with command vagrant ssh <name_of_VM_given_in_Vagrantfile>
 vagrant ssh web01
 I checked /etc/hosts file. Since plugin have have been installed, /etc/hosts file will be updated automatically.
