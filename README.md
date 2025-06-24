@@ -17,7 +17,7 @@ vagrant plugin install vagrant-hostmanager
 vagrant plugin install vagrant-vbguest
 ```
 
-- Git bash or equivalent editor
+- Git bash and a CLI (I used PowerShell Administrator)
 
 ---
 
