@@ -58,6 +58,8 @@ Indexing/Search service
 6. MySQL
 SQL Database
 
+![App Screenshot](vp4.png)
+
 I need to setup my services in the order mentioned below.
 1. MySQL (Database SVC)
 2. Memcache (DB Caching SVC)
