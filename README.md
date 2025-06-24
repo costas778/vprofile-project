@@ -124,6 +124,8 @@ Check connectivity to db with command blow: Once it asks password, enter admin12
 mysql -u root -p
 exit
 
+![App Screenshot](vp5.png)
+
 Next, clone source code to db VM then change directory to src/main/resources/ to get the `sql queries.
 git clone [https://github.com/rumeysakdogan/vprofile-project.git](https://github.com/costas778/vprofile-project.git)
 cd vprofile-project/src/main/resources/
