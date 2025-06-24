@@ -23,12 +23,13 @@ vagrant plugin install vagrant-vbguest
 
 ## **Step1: VM Setup**
 
-Clone the repository:
+Clone the repository with gitbash:
 
 ```bash
 git clone https://github.com/costas778/vprofile-project.git
 ```
-
+We will be using the Vagrantfile within the Manual_provisioning subfolder.
+Go to the directory that has Vagrantfile (i.e. vprofile-project\vagrant\Manual_provisioning)
 Install the vagrant host manager plugin:
 
 ```bash
