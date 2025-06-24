@@ -117,7 +117,7 @@ mysql -u root -p
 exit
 
 Next, clone source code to db VM then change directory to src/main/resources/ to get the `sql queries.
-git clone https://github.com/devopshydclub/vprofile-project.git
+git clone [https://github.com/rumeysakdogan/vprofile-project.git](https://github.com/costas778/vprofile-project.git)
 cd vprofile-project/src/main/resources/
 
 Run command below before initializing DB.
