@@ -12,7 +12,7 @@ vagrant plugin install vagrant-vbguest
 Git bash or equivalent editor
 Step1: VM Setup
 clone the repository on gitbash
-git clone https://github.com/rumeysakdogan/vprofile-project.git
+git clone [https://github.com/rumeysakdogan/vprofile-project.git](https://github.com/costas778/vprofile-project.git)
 I went to the directory that has my Vagrantfile. I installed vagrant host manager with the command below before powering up my Virtual Box.
 vagrant plugin install vagrant-hostmanager
 After plugin installed, I ran the command below to powerup my VMs.
