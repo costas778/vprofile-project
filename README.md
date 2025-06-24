@@ -179,7 +179,8 @@ rabbitmqctl add_user test test
 rabbitmqctl set_user_tags test administrator
 systemctl restart rabbitmq-server
 systemctl status rabbitmq-server
-exit
+
+![App Screenshot](https://raw.githubusercontent.com/costas778/vprofile-project/main/vp6.png)
 ```
 
 ---
