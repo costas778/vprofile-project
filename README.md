@@ -32,6 +32,8 @@ cat /etc/hosts
 Now I will try to ping app01 from web01 vbox.
 ping app01
 
+![App Screenshot](vp3.png)
+
 I was able to connect app01 successfully. I will check other services similarly.
 logout
 Lets connect to app01 vbox and check connectivity of app01 with rmq01, db01 and mc01.
