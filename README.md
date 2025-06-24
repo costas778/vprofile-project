@@ -234,7 +234,7 @@ systemctl status tomcat
 
 Code Build & Deploy to Tomcat(app01) Server
 In /tmp directory, we will clone our source code here.
-git clone https://github.com/devopshydclub/vprofile-project.git
+git clone [https://github.com/rumeysakdogan/vprofile-project.git](https://github.com/costas778/vprofile-project.git)
 ls
 cd vprofile-project/
 Before building your artifact, you need to update our configuration file that will be connect to our backend services db, memcached and rabbitmq service.
