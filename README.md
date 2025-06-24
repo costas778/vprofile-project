@@ -1,3 +1,5 @@
+![App Screenshot](vp1.png)
+
 **Project-1: Vprofile Project: Multi Tier Web Application Stack Setup Locally**
 
 
